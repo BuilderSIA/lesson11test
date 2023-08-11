@@ -1,0 +1,85 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.name{
+    width: 1300px;
+
+    color: #12354b;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.hero-help{
+    display: flex;
+    width: 1300px;
+    height: 376px;
+    border: 1px solid;
+    margin: 0 auto;
+    padding: 1%;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1300px;
+    height: 563px;
+    border: 1px solid;
+    margin: 0 auto;
+    background: linear-gradient(45deg, #E6F2FF 0%, #FAF1ED 100%);
+}
+h2{
+    width: 400px;
+    height: 114px;
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    font-size:200%;
+}
+.tag{
+    width: 300px;
+    color: #262626;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 131%;
+}
+.break{
+    width: 180px;
+    height: 71px;
+    border-radius: 5px;
+    background: white;
+}
+.appointment{
+    width: 280px;
+    height: 71px;
+    border-radius: 5px;
+    background: #38BCEA;
+}
+.bottom{
+    width: 493px;
+    color: #262626;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 130%;
+}
+
+/* footer */
+
+.end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1300px;
+    height: 100px;
+    border: 1px solid;
+    margin: 0 auto;
+}
+
+
+
+
