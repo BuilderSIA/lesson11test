@@ -190,19 +190,10 @@ h1 {
     background: rgba(255, 255, 255, 0.40);
     backdrop-filter: blur(10px);
 }
-
-.hero-box2 {
-    position: absolute;
-    display: flex;
-    align-items: center;
-    width: 300px;
-    height: 90px;
-    padding: 20px;
-    bottom: 0;
-    left: 520px;
-    z-index: 1;
-    background: rgba(255, 255, 255, 0.40);
-    backdrop-filter: blur(10px);
+.sec-2{
+    margin: 0 auto;
+    width: 1300px;
+    background: linear-gradient(45deg, #E6F2FF 0%, #FAF1ED 100%);   
 }
 
 .hero-box3 {
