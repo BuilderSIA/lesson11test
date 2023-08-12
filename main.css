@@ -4,7 +4,10 @@
   box-sizing: border-box;
   list-style: none;
 }
+body {
+  width: 1300px;
 
+}
 
 .five {
   width: 1300px;
@@ -12,6 +15,7 @@
 }
 
 .h2-five{
+  margin-left: 75px ;
   color: #12354B;
   font-family: Panton;  
   font-size: 48px;
@@ -22,6 +26,7 @@
 }
 
 .p-five {
+  margin-left: 80px;
   width: 526.064px;
   color: #737373;
   font-family: Arial;
@@ -29,6 +34,7 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  margin-top: 14px;
 }
 .five-btmlist{
 
@@ -41,32 +47,31 @@
 }
 .fivelist-items {
   position: relative;
-  width: 500px;
+  width: 550px;
   height: 300px;
   border-radius: 4px;
-  background: linear-gradient(225deg, #F7F8FA 0%, #EFF0F4 100%);
+  background: url(./image/woman.png) 300px 0px no-repeat ,linear-gradient(225deg, #F7F8FA 0%, #EFF0F4 100%);
+  background-size: 40%;
+  box-shadow: 0px 13px 50px 0px rgba(192, 192, 192, 0.20);
+  margin-top: 54px;
+ 
+ 
+}
+.fivelist-items-man {
+  position: relative;
+  width: 550px;
+  height: 300px;
+  border-radius: 4px;
+  background: url(./image/man.png) 200px 0px no-repeat ,linear-gradient(225deg, #F7F8FA 0%, #EFF0F4 100%);
+  background-size: 65%;
   box-shadow: 0px 13px 50px 0px rgba(192, 192, 192, 0.20);
   margin-top: 54px;
  
  
 }
 
-.woman-img{
-  height: 300px;
-  position: absolute;
-  margin-left: 447px;
-  margin-top: -150px;
-}
-
-.man-img {
-  height: 300px;
-  position: absolute;
-  margin-left: 326px ;
-  margin-top: -50px;
-}
-
 .h3-woman {
-
+  margin-top: 45px;
   color: #363636;
   font-family: Panton;
   font-size: 25px;
@@ -90,6 +95,7 @@
 
 
 .h3-man {
+  margin-top: 45px;
   color: #363636;
   font-family: Panton;
   font-size: 25px;
