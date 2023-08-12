@@ -35,7 +35,7 @@ body {
     background: linear-gradient(45deg, #E6F2FF 0%, #FAF1ED 100%);   
 }
 .con-2{
-    height: 500px;
+    height: 470px;
     border-radius: 10px;
     display: flex;
     align-items: center;
@@ -62,5 +62,6 @@ body {
 
 
 .girlfoto{
- padding-bottom: 250px;
+ padding-bottom: 145px;
+ width: 620px;
 }
