@@ -30,29 +30,46 @@
   font-weight: 400;
   line-height: normal;
 }
+.five-btmlist{
+
+}
+.five-list{
+  width: 1300px;
+  height: 1250px;
+  display: flex;
+  flex-wrap: wrap;
+}
 .fivelist-items {
-  width: 799.57px;
-  height: 415.112px;
+  position: relative;
+  width: 500px;
+  height: 300px;
   border-radius: 4px;
   background: linear-gradient(225deg, #F7F8FA 0%, #EFF0F4 100%);
   box-shadow: 0px 13px 50px 0px rgba(192, 192, 192, 0.20);
   margin-top: 54px;
  
+ 
 }
 
 .woman-img{
+  height: 300px;
+  position: absolute;
   margin-left: 447px;
-  margin-top: -110px;
+  margin-top: -150px;
 }
 
 .man-img {
+  height: 300px;
+  position: absolute;
   margin-left: 326px ;
+  margin-top: -50px;
 }
 
 .h3-woman {
+
   color: #363636;
   font-family: Panton;
-  font-size: 36px;
+  font-size: 25px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
@@ -64,9 +81,32 @@
 .p-woman{
   color: #3E3E3E;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 13px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin-left: 55px;
+}
+
+
+.h3-man {
+  color: #363636;
+  font-family: Panton;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 55px;
+  margin-bottom: 14px
+
+}
+.p-man {
+  color: #3E3E3E;
+  font-family: Arial;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 55px;
+
 }
