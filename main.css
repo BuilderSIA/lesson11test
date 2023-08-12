@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Kanit:wght@600&family=Karla&family=Lato:wght@900&family=Open+Sans:ital,wght@1,700;1,800&display=swap");
+body {
+  font-family: "Lato", sans-serif;
+  background-color:rgba(251, 251, 251, 1);
+}
+.container {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  width: 1300px;
+}
+.block{
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    justify-content: space-between;
+    padding-bottom: 300px;
+}
+.block-1{
+    padding: 10px 10px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 5px 5px 8px 1px #888888;
+}
+.num{
+    color: #38BCEA;
+    padding-top: 30px;
+}
+.p-1{
+    padding-top: 10px;
+}
+.sec-2{
+    background: linear-gradient(45deg, #E6F2FF 0%, #FAF1ED 100%);   
+}
+.con-2{
+    height: 500px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+.blocks{
+    display: flex;
+    gap: 10px;
+}
+.h-1{
+    font-size: 35px;
+}
+.inp{
+    padding: 20px 20px;
+    border-radius: 5px;
+    border: none;
+}
+.btn{
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: rgba(56, 188, 234, 1);
+} 
+
+
+.girlfoto{
+ padding-bottom: 250px;
+}
