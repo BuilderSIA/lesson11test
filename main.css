@@ -79,7 +79,55 @@ span {
     background-color: #38BCEA;
     border: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* - nav end - */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .hero {
     position: relative;
@@ -176,7 +224,60 @@ h1 {
     color: #4B4B4B;
     margin: 0 0 0 10px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* - header end - */
+
+
+
+/* 1-section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .section1{
@@ -329,6 +430,52 @@ option{
     top: 10px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 1-section end */
+
+
+/* 2-section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Kanit:wght@600&family=Karla&family=Lato:wght@900&family=Open+Sans:ital,wght@1,700;1,800&display=swap");
 body {
   font-family: "Lato", sans-serif;
@@ -416,3 +563,4 @@ body {
 .txt-1{
     margin-left: 25px;
 }
+
