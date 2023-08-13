@@ -626,3 +626,122 @@ body {
 
 
 
+*{
+    /* width: 1300px; */
+    margin: 0 auto;
+    box-sizing: border-box;
+    list-style: none;
+  }
+  body {
+    width: 1300px;
+  
+  }
+  
+  .five {
+    width: 1300px;
+    height: auto;
+  }
+  
+  .h2-five{
+    margin-left: 75px ;
+    color: #12354B;
+    font-family: Panton;  
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+  
+  }
+  
+  .p-five {
+    margin-left: 80px;
+    width: 526.064px;
+    color: #737373;
+    font-family: Arial;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 14px;
+  }
+  .five-btmlist{
+  
+  }
+  .five-list{
+    width: 1300px;
+    height: 1250px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .fivelist-items {
+    position: relative;
+    width: 550px;
+    height: 300px;
+    border-radius: 4px;
+    background: url(./image/woman.png) 300px 0px no-repeat ,linear-gradient(225deg, #F7F8FA 0%, #EFF0F4 100%);
+    background-size: 40%;
+    box-shadow: 0px 13px 50px 0px rgba(192, 192, 192, 0.20);
+    margin-top: 54px;
+   
+   
+  }
+  .fivelist-items-man {
+    position: relative;
+    width: 550px;
+    height: 300px;
+    border-radius: 4px;
+    background: url(./image/man.png) 200px 0px no-repeat ,linear-gradient(225deg, #F7F8FA 0%, #EFF0F4 100%);
+    background-size: 65%;
+    box-shadow: 0px 13px 50px 0px rgba(192, 192, 192, 0.20);
+    margin-top: 54px;
+   
+   
+  }
+  
+  .h3-woman {
+    margin-top: 45px;
+    color: #363636;
+    font-family: Panton;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 55px;
+    margin-bottom: 14px;
+    
+  }
+  
+  .p-woman{
+    color: #3E3E3E;
+    font-family: Arial;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 55px;
+  }
+  
+  
+  .h3-man {
+    margin-top: 45px;
+    color: #363636;
+    font-family: Panton;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 55px;
+    margin-bottom: 14px
+  
+  }
+  .p-man {
+    color: #3E3E3E;
+    font-family: Arial;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 55px;
+  
+  }
+  
