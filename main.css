@@ -8,6 +8,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    width: 1300px;
+    border: 1px solid;
 }
 
 header {
@@ -106,7 +108,7 @@ span {
     margin: 65px 0 10px 30px;
 }
 
-h1 {
+.lech {
     font-size: 38px;
     line-height: 40px;
     color: #1A3444;
@@ -839,7 +841,7 @@ body{
 }
 
 
-h1{
+.name-topic{
     height: 114px;
     color: #000;
     font-size: 48px;
@@ -888,6 +890,7 @@ h1{
 }
 .name-topic{
     margin-bottom: 50px;
+
 }
 
 
