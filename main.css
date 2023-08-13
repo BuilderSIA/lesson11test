@@ -565,8 +565,9 @@ body {
 
 .section-four{
     width: 1300px;
-  
+    height: 750px;
     margin: 0 auto;
+    background-color: #FBFBFB;
 }
 .style-h{
     color: #12354B;
